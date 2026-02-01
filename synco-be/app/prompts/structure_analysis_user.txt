@@ -1,0 +1,6 @@
+Analyze the following file structure and copybook usage to provide architectural insights:
+Structure:
+{file_structure}
+
+Usage:
+{copybook_usage}

@@ -1,0 +1,7 @@
+Analyze the following COBOL program:
+
+```cobol
+{file_content}
+```
+
+Provide a detailed, structured analysis as described in your instructions.

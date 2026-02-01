@@ -1,0 +1,10 @@
+Program: {file_path}
+Complexity Score: {complexity}
+
+Dependencies (Outgoing Calls):
+{outgoing_dependencies}
+
+Callers (Incoming Calls):
+{incoming_dependencies}
+
+Generate the Conversion Strategy now.

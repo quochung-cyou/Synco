@@ -1,0 +1,8 @@
+Analyze the dependency structure of this COBOL project:
+
+{file_structure}
+
+Copybook usage patterns:
+{copybook_usage}
+
+Provide insights about the dependency architecture.

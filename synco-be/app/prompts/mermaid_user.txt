@@ -1,0 +1,11 @@
+Create a Mermaid diagram for the following COBOL dependency structure:
+
+Programs and their copybook dependencies:
+{copybook_usage}
+
+Dependency relationships:
+{relationships}
+
+Total: {total_programs} programs, {total_copybooks} copybooks
+
+Create a clear, organized Mermaid diagram that shows these relationships.

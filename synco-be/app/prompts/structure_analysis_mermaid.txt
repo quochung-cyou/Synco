@@ -1,0 +1,19 @@
+Generate a Mermaid class diagram based on these relationships. Return ONLY the mermaid code block.
+
+STRICT SYNTAX RULES:
+1. Class Names & IDs: MUST NOT contain hyphens (-). Replace ALL hyphens with underscores (_).
+   - Example: `CUSTOMER-FILE` -> `CUSTOMER_FILE`
+   - Example: `TEST-PROGRAM` -> `TEST_PROGRAM`
+2. Methods: MUST be formatted as `MethodName()` with NO spaces. 
+   - Remove 'CALL', 'PERFORM', 'GO TO' prefixes if they make the name too long, or keep them joined with underscores.
+   - Example: `PERFORM SEARCH-CUSTOMER` -> `PERFORM_SEARCH_CUSTOMER()`
+   - Example: `CALL CUSTOMER-DISPLAY` -> `CALL_CUSTOMER_DISPLAY()`
+   - Example: `READ CUSTOMER-FILE` -> `READ_CUSTOMER_FILE()`
+3. Attributes: Replace hyphens with underscores.
+4. Relationships: Use standard `classDiagram` syntax.
+   - `SOURCE_CLASS --> TARGET_CLASS : LABEL`
+
+Input Relationships:
+{relationships}
+Programs: {total_programs}
+Copybooks: {total_copybooks}

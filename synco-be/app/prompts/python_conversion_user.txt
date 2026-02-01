@@ -1,0 +1,9 @@
+Convert the following COBOL code to Python.
+
+Conversion Strategy (FOLLOW THIS STRICTLY):
+{strategy}
+
+COBOL CONTENT:
+{code_content}
+
+Generate the Python code now. Output ONLY valid Python code within a python markdown block.

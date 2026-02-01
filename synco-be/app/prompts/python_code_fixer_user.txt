@@ -1,0 +1,19 @@
+Target File: {file_path}
+
+Original COBOL Code:
+```cobol
+{cobol_code}
+```
+
+Current Python Code:
+```python
+{current_code}
+```
+
+Error / Issue Description:
+{error_description}
+
+User Feedback:
+{user_feedback}
+
+Please provide the FIXED Python code for the entire file.

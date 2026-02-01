@@ -2,16 +2,28 @@
 
 Enterprise COBOL to Python migration platform powered by multi-agent AI orchestration using IBM watsonx.
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
-![alt text](image-8.png)
-![alt text](image-9.png)
+<div align="center">
+  <img src="image.png" alt="Synco Overview" width="100%">
+</div>
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><img src="image-1.png" alt="Synco Feature 1" width="100%"></td>
+    <td align="center" width="33%"><img src="image-2.png" alt="Synco Feature 2" width="100%"></td>
+    <td align="center" width="33%"><img src="image-3.png" alt="Synco Feature 3" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="image-4.png" alt="Synco Feature 4" width="100%"></td>
+    <td align="center" width="33%"><img src="image-5.png" alt="Synco Feature 5" width="100%"></td>
+    <td align="center" width="33%"><img src="image-6.png" alt="Synco Feature 6" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="image-7.png" alt="Synco Feature 7" width="100%"></td>
+    <td align="center" width="33%"><img src="image-8.png" alt="Synco Feature 8" width="100%"></td>
+    <td align="center" width="33%"><img src="image-9.png" alt="Synco Feature 9" width="100%"></td>
+  </tr>
+</table>
 
 
 ## Overview
